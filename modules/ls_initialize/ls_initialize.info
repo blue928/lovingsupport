@@ -1,0 +1,22 @@
+name = Download Dependant Loving Support Drupal Modules
+description = Forces download of the modules necessary for Loving Support to operate correctly. Can be deleted once the site is established. As well, the initial database can be found in this module's folder.
+package = Loving Support
+core = 7.x
+
+dependencies[] = extlink
+dependencies[] = features
+dependencies[] = google_analytics
+dependencies[] = media
+dependencies[] = taxonomy_menu_block
+dependencies[] = ckeditor
+dependencies[] = imce
+dependencies[] = menu_attributes
+dependencies[] = token
+dependencies[] = ctools
+dependencies[] = link
+dependencies[] = pathauto
+dependencies[] = views
+dependencies[] = globalredirect
+dependencies[] = taxonomy_display
+dependencies[] = webform
+dependencies[] = link_checker
